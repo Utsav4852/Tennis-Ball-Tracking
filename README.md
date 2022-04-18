@@ -33,5 +33,5 @@ Methodology follows total 4 stages of process. Ball detection, Court Detection, 
 - Ball Tracking: Once we get the ball position, we must pass that position to tracknet model to train the model. It will understand the ball tracking and we will get predicted output in the video.
 
 # Output
-https://user-images.githubusercontent.com/40597501/163779051-c14e5c1f-1322-4e51-98a6-c4667e5a2551.mp4
+![output_Final_2_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/40597501/163780923-4fddf01c-cae6-47d2-b84b-320c610fd528.gif)
 
